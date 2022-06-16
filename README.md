@@ -16,5 +16,5 @@ Purple rectagles represents pedestrians and green lines signifies the lanes as w
 Download a zip file of this repository and upload the video file to this program. After the video file is uploaded,
 change the name of capVid to the name of your video file. 
 
-**Captures the video**
+
 **capVid = cv2.VideoCapture('Insert your video file name')**
